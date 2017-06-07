@@ -1,0 +1,47 @@
+.no-select {
+  user-select: none; }
+
+.no-pointer {
+  pointer-events: none; }
+
+html {
+  width: 100%;
+  height: 100%;
+  font-family: helvetica, arial, sans-serif;
+  font-size: 62.5%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #ffffff; }
+
+* {
+  outline: none;
+  box-sizing: border-box; }
+
+button {
+  border: 0;
+  background: transparent; }
+
+a {
+  color: #dedede;
+  text-decoration: none; }
+
+canvas {
+  vertical-align: middle; }
+
+@keyframes blink {
+  0%,
+  100% {
+    opacity: 1; }
+  50% {
+    opacity: .5; } }
+
+.main-wrapper,
+.router-view {
+  position: relative;
+  width: 100%;
+  height: 100%; }

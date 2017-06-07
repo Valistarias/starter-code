@@ -1,0 +1,16 @@
+$bp-mobile-small: (max-width : 320px);
+$bp-mobile-small-landscape: (min-width : 320px) (max-width : 640px) (orientation landscape);
+///
+$bp-mobile: (max-width : 767px);
+$bp-mobile-landscape: (max-width : 767px) (orientation landscape);
+$bp-mobile-portrait: (max-width : 767px) (orientation portrait);
+///
+$bp-tablet-small: (max-width : 700px);
+$bp-tablet-landscape: (min-width : 768px) (max-width : 1024px) (orientation landscape);
+$bp-tablet-portrait: (max-width : 1024px) (orientation portrait);
+$bp-tablet: (max-width : 1200px);
+///
+$bp-tablet-portrait-mobile: (min-width : 320px) (max-width : 767px), (min-width : 768px) (max-width : 1024px) (orientation portrait);
+///
+$bp-desktop-medium: (max-width : 1400px);
+$bp-desktop-large: (max-width : 1600px);

@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.history
+.vscode
+node_modules/
+dist/
+doc/
+*.log
+bundle.js
+main.css
+*.map
