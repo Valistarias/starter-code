@@ -1,9 +1,9 @@
 <?php
 
-namespace MerciMichel\Controller;
+namespace VictorMallet\Controller;
 
-use MerciMichel\Model\Hello as Hello;
-use MerciMichel\Model\World as World;
+use VictorMallet\Model\Hello as Hello;
+use VictorMallet\Model\World as World;
 
 class MessageController {
 	public static function hello() {

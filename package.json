@@ -22,6 +22,8 @@
     "babelify": "^7.3.0",
     "budo": "^9.4.7",
     "concurrently": "^3.3.0",
+    "eslint": "^4.17.0",
+    "eslint-config-google": "^0.9.1",
     "node-sass": "^4.5.2",
     "uglify-js": "^3.0.15"
   },

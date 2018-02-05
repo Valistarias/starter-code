@@ -1,6 +1,6 @@
 <?php
 
-namespace MerciMichel\Model;
+namespace VictorMallet\Model;
 
 class Hello {
 	public static function talk() {

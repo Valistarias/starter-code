@@ -1,8 +1,8 @@
 <?php
 
-namespace MerciMichel;
+namespace VictorMallet;
 
-use MerciMichel\Controller\MessageController as MessageController;
+use VictorMallet\Controller\MessageController as MessageController;
 
 class App {
 	private static $instance = null;

@@ -5,7 +5,7 @@ require_once(dirname(__FILE__) . "/models/World.php");
 require_once(dirname(__FILE__) . "/controllers/HelloController.php");
 require_once(dirname(__FILE__) . "/core/App.php");
 
-use MerciMichel\App as App;
+use VictorMallet\App as App;
 
 const VERSION = '1.0';
 
